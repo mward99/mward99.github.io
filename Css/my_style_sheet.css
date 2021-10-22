@@ -1,0 +1,49 @@
+span{
+    background-color: blue;
+    color: cornsilk;
+    font-size: 150%;
+}
+h1{
+    color: cornsilk;
+    background-color: rgb(10, 10, 78);
+    text-align: center;
+    font-size: 375%;
+    font: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align: justify;
+    color: cornsilk;
+    background-color: rgb(10, 10, 78);
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-align: justify;
+    color: cornsilk;
+    background-color: rgb(10, 10, 78);
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color: rgb(207, 226, 30);
+    font-size: 125%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+div{
+    background-color: rgb(10, 10, 78);
+    text-align: center;
+    color: cornsilk;
+}
+h3{
+    color: cornsilk;
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    text-align: center;
+}
+input{
+    text-align: center;
+}
